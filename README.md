@@ -75,9 +75,9 @@ The Marketplace URL is https://marketplace.visualstudio.com/items?itemName=nsupl
 
 ### VSCode - Open Folder
 
-**Very Important Fact** - Your VS Code project **MUST MUST MUST** be rooted at a folder that maps or corresponds to NetSuite's "SuiteScripts" file cabinet folder. This extension assumes the working root is equivalent to the remote "SuiteScripts" folder.
+⚠️**Very Important Fact** - Your VS Code project **MUST MUST MUST** be rooted at a folder that maps or corresponds to NetSuite's "SuiteScripts" file cabinet folder. This extension assumes the working root is equivalent to the remote "SuiteScripts" folder.
 
-In VS Code, open the folder that corresponds to your local copy of the **SuiteScripts** folder in VSCode. That folder may not be named "SuiteScripts", but it should be the folder that _corresponds_ to SuiteScripts in the NetSuite file cabiner.
+In VS Code, open the folder that corresponds to your local copy of the **SuiteScripts** folder in VSCode. That folder may not be named "SuiteScripts", but it should be the folder that _corresponds_ to SuiteScripts in the NetSuite file cabinet.
 
 ### VS Code Extension Settings
 
